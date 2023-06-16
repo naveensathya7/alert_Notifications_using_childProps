@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.icon-status {
+  display: flex;
+  align-items: center;
+}
+.success-icon {
+  color: #2dca73;
+}
+.success-heading {
+  color: #2dca73;
+  margin-left: 10px;
+}
+.error-icon {
+  color: #ff0b37;
+}
+.error-heading {
+  color: #ff0b37;
+  margin-left: 10px;
+}
+.warning-icon {
+  color: #ffb800;
+}
+.warning-heading {
+  color: #ffb800;
+  margin-left: 10px;
+}
+.info-icon {
+  color: #0f81e0;
+}
+.info-heading {
+  color: #0f81e0;
+  margin-left: 10px;
+}
+.notifications-bg {
+  align-items: center;
+
+  display: flex;
+  flex-direction: column;
+}
+.description {
+  color: #64748b;
+  margin-left: 25px;
+}
